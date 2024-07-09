@@ -1,7 +1,12 @@
-# Python_100
-Learning python through replit, udemy courses where you create various projects in 60-100 days. 
+# Kaadjal Learnign Python
+Learning python through replit, udemy, codecademy courses where you create various projects in 60-100 days. 
 
-# Replit
+* [Replit] (### Replit)
+* [Udemy 100] (### Udemy 100)
+* [Udemy 60] (### Udemy 60)
+* [Other Python Projects]
+  
+### Replit
 * Day 01 - Hello World!
 * Day 02 - Input and Variables
 * Day 03 - Concat...what?
@@ -44,6 +49,6 @@ Learning python through replit, udemy courses where you create various projects 
 * Day 40
 
 
-# Udemy 100
+### Udemy 100
 
-# Udemy 60
+### Udemy 60
