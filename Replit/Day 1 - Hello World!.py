@@ -7,4 +7,4 @@ I'll be using Replit, an amazing online IDE so I can do this from my phone where
 
 print("I am feeling 😊")
 
-print("You can follow my progress at replit.com/@Kaadjal")
+print("You can follow my progress at github.com/@Kaadjal")
