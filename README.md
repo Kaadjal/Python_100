@@ -3,12 +3,12 @@ Learning python through replit, udemy, codecademy courses where you create vario
 
 ## Overview
 * [Replit](#Replit)
-* [Udemy 100](#Udemy 100)
-* [Udemy 60](#Udemy 60)
+* [Udemy 100](#Udemy100)
+* [Udemy 60](#Udemy60)
 * [Other Python Projects]
   
 ### Replit
-* Day 01 - Hello World!
+* [Day 01 - Hello World!](https://github.com/Kaadjal/Python_100/blob/main/Replit/Day%201%20-%20Hello%20World!.py)
 * Day 02 - Input and Variables
 * Day 03 - Concat...what?
 * Day 04 - 'Print' in Color!
