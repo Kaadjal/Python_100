@@ -1,0 +1,6 @@
+userName = input("What is your name? ")
+faveFood = input("What is your favorite food? ")
+faveMusic = input("What is your favorite music? ")
+location = input("Where do you live? ")
+print("You are " + userName + ". Your favorite food is " + faveFood + ", you like jamming along to " + faveMusic + ", in " + location + ".")
+print("You are doing great! Keep up the good work!")
