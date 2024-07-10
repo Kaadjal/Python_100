@@ -8,7 +8,7 @@ Learning python through replit, udemy, codecademy courses where you create vario
 * [Other Python Projects]
   
 ### Replit
-* [Day 01 - Hello World!]('https://github.com/Kaadjal/Python_100/blob/main/Replit/Day%201%20-%20Hello%20World!.py')
+* [Day 01 - Hello World!]<https://github.com/Kaadjal/Python_100/blob/main/Replit/Day%201%20-%20Hello%20World!.py>
 * [Day 02 - Input and Variables](https://github.com/Kaadjal/Python_100/blob/main/Replit/Day%202%20-%20Input%20and%20Variables.py)
 * [Day 03 - Concat...what?](https://github.com/Kaadjal/Python_100/blob/main/Replit/Day%203%20-%20Concat...what%3F.py)
 * [Day 04 - 'Print' in Color!](https://github.com/Kaadjal/Python_100/blob/main/Replit/Day%204%20-%20'Print'%20%20in%20Color!.py)
