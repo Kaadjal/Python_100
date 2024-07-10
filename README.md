@@ -26,28 +26,28 @@ Learning python through replit, udemy, codecademy courses where you create vario
 * [Day 16 - Make it Stop!](https://github.com/Kaadjal/Python_100/blob/main/Replit/Day%2016%20-%20Make%20it%20Stop!.py)
 * [Day 17 - Let's Cheat Continue](https://github.com/Kaadjal/Python_100/blob/main/Replit/Day%2017%20-%20Let's%20Cheat%20Continue.py)
 * [Day 18 - Guess the Number](https://github.com/Kaadjal/Python_100/blob/main/Replit/Day%2018%20-%20Guess%20the%20Number.py)
-* [Day 19
-* Day 20
-* Day 21
-* Day 22
-* Day 23
-* Day 24
-* Day 25
-* Day 26
-* Day 27
-* Day 28
-* Day 29
-* Day 30
-* Day 31
-* Day 32
-* Day 33
-* Day 34
-* Day 35
-* Day 36
-* Day 37
-* Day 38
-* Day 39
-* Day 40
+* [Day 19 - Let's Be a Bit Lazy!](https://github.com/Kaadjal/Python_100/blob/main/Replit/Day%2019%20-%20Let's%20Be%20a%20Bit%20Lazy!.py)
+* [Day 20 - What Can Range really do?]()
+* [Day 21 - Throwback to Math Facts]()
+* [Day 22 - Use other people's code]()
+* [Day 23 - Subroutines: The Recipe for Code]()
+* [Day 24 - Roll in the Parameters]()
+* [Day 25 - Send it Back]()
+* [Day 26 - The Power of Libraries in Games]()
+* [Day 27 - Video Game Characters]()
+* [Day 28 - Epic Character Battle]()
+* [Day 29 - The Secrets of print]()
+* [Day 30 - f...what?]()
+* [Day 31 - Create a User Interface]()
+* [Day 32 - Make a List]()
+* [Day 33 - Getting Dynamic]()
+* [Day 34 - Pretty Printing]()
+* [Day 35 - The ULTIMATE List Maker]()
+* [Day 36 - That's Not My Name...]()
+* [Day 37 - Slice it Up!]()
+* [Day 38 - Code the Rainbow]()
+* [Day 39 - Hangman]()
+* [Day 40 - Dictionaries]()
 
 
 ### Udemy 100
